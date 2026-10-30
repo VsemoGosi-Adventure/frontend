@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Авантюра",
+    "slug": "avantura",
+    "scheme": "avantura",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "web": {
+      "bundler": "metro"
+    },
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "package": "com.avantura.mobile"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-status-bar"
+    ]
+  }
+}
